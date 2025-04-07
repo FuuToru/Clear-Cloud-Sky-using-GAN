@@ -1,4 +1,4 @@
-# Fuutoru - Clear Cloud Sky using GAN
+# Clear Cloud Sky using GAN
 
 This project uses a GAN model to remove clouds from satellite images using the EuroSAT dataset.
 
