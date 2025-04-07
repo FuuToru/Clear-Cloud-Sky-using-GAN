@@ -11,4 +11,3 @@ python scripts/train.py --config config/train_config.yaml
 # Run inference
 python scripts/inference.py --input path_to_image.jpg --output outputs/images/
 ```
-"""

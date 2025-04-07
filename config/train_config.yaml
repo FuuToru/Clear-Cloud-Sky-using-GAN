@@ -1,0 +1,10 @@
+batch_size: 64
+image_size: 64
+num_epochs: 100
+learning_rate: 0.0002
+beta1: 0.5
+latent_dim: 100
+device: cuda
+dataset_path: ./data/processed/
+checkpoint_path: ./checkpoints/
+output_path: ./outputs/
